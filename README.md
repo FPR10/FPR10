@@ -1,14 +1,14 @@
 ### 👋 Hi, I'm Francesco Pio Ruffo
 
-🎓 Master's Student in **Computer Engineering (Cybersecurity)** at Università della Calabria
+Master's Student in **Computer Engineering (Cybersecurity)** at Università della Calabria
 
 ---
 
-- 🔭 Currently working on: **Master's Degree in Computer Engineering – Cybersecurity track** (October 2025 – ongoing)
-- 🎓 Bachelor's Degree in Computer Engineering
-- 🌱 Passionate about **Software Security**
-- 🧬 Also interested in **Bioinformatics** and biomedical applications of **Artificial Intelligence**
-- 💬 Dynamic and team-oriented, with strong adaptability and effective problem-solving skills
+- Currently working on: **Master's Degree in Computer Engineering – Cybersecurity track** (October 2025 – ongoing)
+- Bachelor's Degree in Computer Engineering
+- Passionate about **Software Security**
+- Also interested in **Bioinformatics** and biomedical applications of **Artificial Intelligence**
+- Dynamic and team-oriented, with strong adaptability and effective problem-solving skills
 - 📫 Reach me: [francesco.ruffo03@gmail.com](mailto:francesco.ruffo03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/francesco-pioruffo-42386026a)
 
 ---
