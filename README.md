@@ -5,9 +5,9 @@
 ---
 
 - 🔭 Currently working on: **Master's Degree in Computer Engineering – Cybersecurity track** (October 2025 – ongoing)
-- 🎓 Bachelor's Degree in Computer Engineering, graduated with a final grade of **102/110**
-- 🌱 Passionate about **Software Security**, biomedical applications of **Artificial Intelligence**, and **Internet of Things (IoT)**
-- 🧬 Also interested in **Bioinformatics** and dynamic systems analysis
+- 🎓 Bachelor's Degree in Computer Engineering
+- 🌱 Passionate about **Software Security**
+- 🧬 Also interested in **Bioinformatics** and biomedical applications of **Artificial Intelligence**
 - 💬 Dynamic and team-oriented, with strong adaptability and effective problem-solving skills
 - 📫 Reach me: [francesco.ruffo03@gmail.com](mailto:francesco.ruffo03@gmail.com) · [LinkedIn](https://www.linkedin.com/in/francesco-pioruffo-42386026a)
 
@@ -50,21 +50,6 @@
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
----
-
-# 🎓 Education
-
-**Università della Calabria** — Master's Degree in Computer Engineering (Cybersecurity)
-October 2025 – ongoing
-
-**Università della Calabria** — Bachelor's Degree in Computer Engineering
-September 2022 – December 2025 · Final grade: 102/110
-Core subjects: Bioinformatics, Software Engineering, Databases, Data Mining, Digital Electronics, Automatic Control Fundamentals, Internet Computing
-
-**Liceo Scientifico Valentini**, Castrolibero (CS)
-2017 – 2022 · Final grade: 100/100 with honors
-
----
 
 # 🚀 Academic Projects
 
@@ -78,7 +63,6 @@ Core subjects: Bioinformatics, Software Engineering, Databases, Data Mining, Dig
 
 🤖 **KNN Optimization** *(team project)* — K-Nearest Neighbors algorithm implemented in C, with hardware optimization techniques
 
-> 🔗 Add links to the repositories here as you publish them on GitHub
 
 ---
 
