@@ -82,9 +82,7 @@ English B1 (Trinity College London) · English B2 (CLA Unical)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=FPR10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🏆 GitHub Trophies
 
-![](https://github-profile-trophy.vercel.app/?username=FPR10&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 
